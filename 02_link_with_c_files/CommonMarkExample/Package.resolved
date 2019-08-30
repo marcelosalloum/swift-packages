@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "Ccmark",
-        "repositoryURL": "/Users/marcelosalloum/Workspace/swift-packages/02_link_with_c_files/3/Ccmark",
+        "repositoryURL": "/Users/marcelosalloum/Workspace/swift-packages/02_link_with_c_files/Ccmark",
         "state": {
           "branch": "master",
           "revision": "3f88125aebc22448fd83f0d90f829e2e1564b74d",
